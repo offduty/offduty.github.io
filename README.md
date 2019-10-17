@@ -14,4 +14,4 @@ $ git add .
 $ git commit -m "first commit"
 $ git push -u origin master
 ```
-输入 github 用户名和密码。待上传完成。打开 https://offduty.github.io， 即可看到效果。
+输入 github 用户名和密码。待上传完成。打开 https://offduty.github.io ，即可看到效果。
