@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 马氏大院</title>
+    <link>http://offduty.github.io/posts/</link>
+    <description>Recent content in Posts on 马氏大院</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 16 Oct 2019 19:54:25 +0800</lastBuildDate>
+    
+	<atom:link href="http://offduty.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>茶馆</title>
+      <link>http://offduty.github.io/posts/%E8%8C%B6%E9%A6%86/</link>
+      <pubDate>Wed, 16 Oct 2019 19:54:25 +0800</pubDate>
+      
+      <guid>http://offduty.github.io/posts/%E8%8C%B6%E9%A6%86/</guid>
+      <description>Alice-&amp;gt;Bob: Hello Bob, how are you? Note right of Bob: Bob thinks Bob--&amp;gt;Alice: I am good thanks! st=&amp;gt;start: Start op=&amp;gt;operation: Your Operation cond=&amp;gt;condition: Yes or No? e=&amp;gt;end st-&amp;gt;op-&amp;gt;cond cond(yes)-&amp;gt;e cond(no)-&amp;gt;op digraph G { subgraph cluster_0 { style=filled; color=lightgrey; node [style=filled,color=white]; a0 -&amp;gt; a1 -&amp;gt; a2 -&amp;gt; a3; label = &amp;quot;process #1&amp;quot;; } subgraph cluster_1 { node [style=filled]; b0 -&amp;gt; b1 -&amp;gt; b2 -&amp;gt; b3; label = &amp;quot;process #2&amp;quot;; color=blue }</description>
+    </item>
+    
+    <item>
+      <title>神经网络调试清单</title>
+      <link>http://offduty.github.io/posts/20190116/</link>
+      <pubDate>Wed, 16 Oct 2019 19:18:58 +0800</pubDate>
+      
+      <guid>http://offduty.github.io/posts/20190116/</guid>
+      <description>你可以采取实质性步骤去识别和修复机器学习模型的训练、泛化和优化问题。 众所周知，由于机器学习 bugs 的捕捉代价很高，导致机器学习代码调试起来很困难。</description>
+    </item>
+    
+  </channel>
+</rss>
